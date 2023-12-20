@@ -148,9 +148,9 @@
     <dmn:extensionElements/>
     <dmn:variable id="_A97019FC-EE01-451F-A7AA-5A97ED005FB9" name="Credit Score" typeRef="Credit_Score"/>
   </dmn:inputData>
-  <dmn:businessKnowledgeModel id="_4C788DBD-C672-4F41-9AFE-9C7D2C145734" name="Lender Acceptable DTI">
+  <dmn:businessKnowledgeModel id="_4C788DBD-C672-4F41-9AFE-9C7D2C145734" name="Lender Acceptable">
     <dmn:extensionElements/>
-    <dmn:variable id="_85508943-7AD2-4AA0-80E5-20923CA2308D" name="Lender Acceptable DTI" typeRef="number"/>
+    <dmn:variable id="_85508943-7AD2-4AA0-80E5-20923CA2308D" name="Lender Acceptable" typeRef="number"/>
     <dmn:encapsulatedLogic id="_9F0257EE-CF82-49FD-AEDD-3155890864FF" kind="FEEL">
       <dmn:literalExpression id="_21E8FA38-C947-4733-9E52-CF81A97ADF91">
         <dmn:text>0.36</dmn:text>
